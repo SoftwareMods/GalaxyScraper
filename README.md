@@ -2,6 +2,11 @@
 Galaxyaudiobook.com is an excellent resource for finding and listening to audio books, however, it has one critical drawback in that you must listen to the audiobook through the player on the website.
 This makes listening to the audiobooks a frustrating experience.  I created this tool in order to instead download the tracks so they can be used anywhere and listened to in your favorite audiobook player application.
 
+## Requirements
+Python 3
+PyQt5, sys, requests, bs4 (BeautifulSoup)
+
+
 ## Steps
 ### Browse 
 Using your web browser navigate to galaxyaudiobook.com and search for your desired book
