@@ -5,13 +5,9 @@ This makes listening to the audiobooks a frustrating experience.  I created this
 ## Steps
 ### Browse 
 Using your web browser navigate to galaxyaudiobook.com and search for your desired book
-![image](https://github.com/SoftwareMods/GalaxyScraper/assets/7725472/01d72eb3-525b-43a2-b703-a40e7bf1c94b)
-
 
 ### Copy URL
 Once on the page for the book you would like to listen to, copy the URL from the browser
-![image](https://github.com/SoftwareMods/GalaxyScraper/assets/7725472/9d5b6f7b-011f-4134-8b4f-011bf0fee95d)
-
 
 ### Paste URL
 Start GalaxyScraper and in the URL box paste in your copied URL
