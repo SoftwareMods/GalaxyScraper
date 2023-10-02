@@ -1,5 +1,5 @@
 # GalaxyScraper
-Galaxyaudiobook.com is an excellent resource for downloading audio books, however, it has one critical drawback in that you must listen to the audiobook through the player on the website.
+Galaxyaudiobook.com is an excellent resource for finding and listening to audio books, however, it has one critical drawback in that you must listen to the audiobook through the player on the website.
 This makes listening to the audiobooks a frustrating experience.  I created this tool in order to instead download the tracks so they can be used anywhere and listened to in your favorite audiobook player application.
 
 ## Steps
