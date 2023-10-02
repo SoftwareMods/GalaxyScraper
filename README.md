@@ -1,6 +1,6 @@
 # GalaxyScraper
 Galaxyaudiobook.com is an excellent resource for downloading audio books, however, it has one critical drawback in that you must listen to the audiobook through the player on the website.
-This makes listening to the audiobooks a frustrating experience.  I created this tool in order to instead download the tracks so they can be used anywhere and listened to in your favorite audiobook player applicaiton.
+This makes listening to the audiobooks a frustrating experience.  I created this tool in order to instead download the tracks so they can be used anywhere and listened to in your favorite audiobook player application.
 
 ## Steps
 ### Browse 
@@ -38,4 +38,7 @@ Click the Download button and each selected track (all by default) will be downl
 You can now listen to the audiobook from your PC or move to another location as desired.  For my purposes I upload the current audiobook I'm listening to my dropbox account and then download the tracks to my phone to listen to on the "BookPlayer" app on iOS
 
 <img src='https://github.com/SoftwareMods/GalaxyScraper/assets/7725472/2fc8e007-3f10-4352-8e5e-67f14494368e' width='150' />
+
+# Legality Notice
+GalaxyAudioBook.com hosts both public domain and licensed titles.
 
