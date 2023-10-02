@@ -36,5 +36,6 @@ You can now listen to the audiobook from your PC or move to another location as 
 <img src='https://github.com/SoftwareMods/GalaxyScraper/assets/7725472/2fc8e007-3f10-4352-8e5e-67f14494368e' width='150' />
 
 # Legality Notice
-GalaxyAudioBook.com hosts both public domain and licensed titles.
+GalaxyAudioBook.com hosts both public domain and licensed titles. Any title that is made available to download from this site is subject to and governed by the terms of the end user license agreement associated with the product.
 
+The title is made available for download solely for use by licensed end users and for review purposes. Any reproduction or redistribution of the title not in accordance with the license agreement is expressly prohibited by law, and may result in severe civil and criminal penalties.
